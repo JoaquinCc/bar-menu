@@ -6,7 +6,7 @@
 
 /* Variables CSS para facilitar el cambio de colores */
 :root {
-    --primary-color: #333;
+    --primary-color: #000000;
     --hover-color: #fff;
     --link-color: #fff;
     --link-hover-color: #333;
